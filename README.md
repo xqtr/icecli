@@ -2,8 +2,8 @@
 
 An all in one "start menu" for use in the terminal
 
-![CliPass Screenshot](https://raw.githubusercontent.com/xqtr/icecli/images/main.png)
-![CliPass Screenshot](https://raw.githubusercontent.com/xqtr/icecli/images/filter.png)
+![icecli Screenshot](https://github.com/xqtr/icecli/tree/main/images/main.png)
+![icecli Screenshot](https://github.com/xqtr/icecli/tree/main/images/filter.png)
 
 # DISCLAIMER
 
