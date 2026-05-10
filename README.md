@@ -2,8 +2,9 @@
 
 An all in one "start menu" for use in the terminal
 
-![icecli Screenshot](https://github.com/xqtr/icecli/tree/main/images/main.png)
-![icecli Screenshot](https://github.com/xqtr/icecli/tree/main/images/filter.png)
+![icecli Screenshot](https://github.com/xqtr/icecli/blob/main/images/main.png)
+![icecli Screenshot](https://github.com/xqtr/icecli/blob/main/images/filter.png)
+
 
 # DISCLAIMER
 
